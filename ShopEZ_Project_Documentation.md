@@ -11,7 +11,7 @@
 ### 1.2 Team Members
 | Name | Role |
 | :--- | :--- |
-| **pabbathireddy pooja rani** | Full Stack Developer (Frontend, Backend, Database, Documentation) |
+| **mandala nandu yadav** | Full Stack Developer (Frontend, Backend, Database, Documentation) |
 
 This is an individually developed project, with the sole contributor responsible for end-to-end design, development, testing, and deployment of the application.
 
